@@ -1,16 +1,16 @@
-# React + Vite
+# SkillSwap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkillSwap is a skill-sharing platform developed as a group project using VS Code and MySQL.
 
-Currently, two official plugins are available:
+## Technologies Used
+- Frontend: React / HTML / CSS / JavaScript
+- Backend: Node.js
+- Database: MySQL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- User registration and login
+- Skill sharing
+- User interaction and matching
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Team Project
+Developed as a collaborative group project.
